@@ -1,0 +1,3 @@
+# schoolDB
+
+Simple databade 
